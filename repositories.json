@@ -20,12 +20,7 @@
           "flags": [ "chathud" ]
         }
       ]
-    }
-  ]
-},
-{
-  "name": "TLOZ Randomizer Item Tracker",
-  "packages": [
+    },
     {
       "name": "TLOZ Randomizer Item Tracker",
       "author": "MagoMerlin",
