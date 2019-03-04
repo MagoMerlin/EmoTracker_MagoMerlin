@@ -9,13 +9,13 @@ The Legend of Zelda Randomizer tracker:
 
 Final Fantasy IV Free Enterprise tracker:
 
--This package is designed to be a item and map tracker (alpha).
+-This package is designed to be a chars, items, bosses, and locations tracker.
 
 -It's based off of some existing trackers: (http://schala-kitty.net/ff4fe-tracker/) and (https://akw5013.gitlab.io/ffiv-free-enterprise-tracker/).
 
 -You can generate your FFIVFE ROMHack: (http://ff4-free-enterprise.com/).
 
-Note: I have not finished the map tracker yet. It will take a long time, but I will conclude it someday.
+Note: I have not finished the map trackers yet. It will take a long time, but I will conclude it someday.
 
 -TLOZR and FFIVFE Trackers REQUIRES EmoTracker to work, as they are addon packages to the tracker program: (https://emotracker.net/).
 
