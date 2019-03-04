@@ -22,4 +22,19 @@
       ]
     }
   ]
+},
+{
+  "name": "TLOZ Randomizer Item Tracker",
+  "packages": [
+    {
+      "name": "TLOZ Randomizer Item Tracker",
+      "author": "MagoMerlin",
+      "game_name": "The Legend of Zelda Randomizer",
+      "version": "1.0.0.0",
+      "flags": ["chathud"],
+      "required_app_version": "2.3.0.0",
+      "uid": "tlozr_emotracker_magomerlin",
+      "link": "https://github.com/MagoMerlin/EmoTracker_MagoMerlin/raw/master/tlozr_emotracker_magomerlin.zip",
+    }
+  ]
 }
