@@ -1,0 +1,44 @@
+{
+  "name": "MagoMerlin Official Packages",
+  "packages": [
+    {
+      "name": "FFIV Free Enterprise Randomizer - Complete",
+      "author": "MagoMerlin",
+      "game_name": "FFIV Free Enterprise Randomizer",
+      "version": "0.9.2.0",
+      "flags": [ "map", "pins", "chathud" ],
+      "required_app_version": "2.3.0.0",
+      "uid": "ffiv_fe_complete_magomerlin",
+      "link": "https://github.com/MagoMerlin/EmoTracker_MagoMerlin/raw/master/ffiv_fe_complete_magomerlin.zip",
+      "variants": [
+        {
+          "name": "Chars, Items and Bosses",
+          "flags": [ "chathud" ]
+        },
+        {
+          "name": "Chars, Items and Bosses w/ Locations",
+          "flags": [ "chathud" ]
+        },
+        {
+          "name": "Chars, Items and Bosses w/ Map (Alpha)",
+          "flags": [ "map", "pins", "chathud" ]
+        }
+      ]
+    },
+    {
+      "name": "TLOZ Randomizer Item Tracker",
+      "packages": [
+        {
+          "name": "TLOZ Randomizer Item Tracker",
+          "author": "MagoMerlin",
+          "game_name": "The Legend of Zelda Randomizer",
+          "version": "1.0.0.0",
+          "flags": ["chathud"],
+          "required_app_version": "2.3.0.0",
+          "uid": "tlozr_emotracker_magomerlin",
+          "link": "https://github.com/MagoMerlin/EmoTracker_MagoMerlin/raw/master/tlozr_emotracker_magomerlin.zip",
+        }
+      ]
+    }
+  ]
+}
