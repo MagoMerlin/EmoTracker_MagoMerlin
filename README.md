@@ -1,4 +1,4 @@
-# EmoTracker_MagoMerlin
+# MagoMerlin Official Packages
 The Legend of Zelda Randomizer tracker for EmoTracker:
 -This package is designed to be a TLOZR ROMhack item tracker.
 -It's based off of some existing tracker made by MetalMachine in EmoTracker.
