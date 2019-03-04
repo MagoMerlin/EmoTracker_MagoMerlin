@@ -9,7 +9,7 @@
       "flags": [ "map", "pins", "chathud" ],
       "required_app_version": "2.1.0.0",
       "uid": "ffiv_fe_complete_magomerlin",
-      "link": "https://github.com/MagoMerlin/ffivfe-tracker-for-emotracker/raw/master/ffiv_fe_complete_magomerlin.zip",
+      "link": "https://github.com/MagoMerlin/EmoTracker_MagoMerlin/raw/master/ffiv_fe_complete_magomerlin.zip",
       "variants": [
         {
           "name": "Chars, Items and Bosses",
@@ -36,7 +36,7 @@
           "flags": ["chathud"],
           "required_app_version": "2.1.0.0",
           "uid": "tlozr_emotracker_magomerlin",
-          "link": "https://github.com/MagoMerlin/tlozr_emotracker_magomerlin/raw/master/tlozr_emotracker_magomerlin.zip",
+          "link": "https://github.com/MagoMerlin/EmoTracker_MagoMerlin/raw/master/tlozr_emotracker_magomerlin.zip",
         }
       ]
     }
