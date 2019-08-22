@@ -21,7 +21,7 @@
         },
         {
           "standart_map": {
-          "display_name": "Chars, Items, Bosses and Map Tracker"
+          "display_name": "Chars, Items, Bosses and Map Tracker",
           "flags": [ "chathud", "map", "pins" ]
         }
       ]
