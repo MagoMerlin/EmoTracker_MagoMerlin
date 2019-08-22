@@ -5,8 +5,8 @@
       "name": "FFIV FE Randomizer - Complete",
       "author": "MagoMerlin",
       "game_name": "FFIV Free Enterprise Randomizer",
-      "version": "1.0.3.0",
-      "flags": ["chathud"],
+      "version": "1.1.3.0",
+      "flags": ["chathud", "map", "pins"],
       "required_app_version": "2.3.0.0",
       "uid": "ffiv_fe_complete_magomerlin",
       "link": "https://github.com/MagoMerlin/MagoMerlin.github.io/raw/master/ffiv_fe_complete_magomerlin.zip",
@@ -17,7 +17,12 @@
         },
         {
           "name": "Chars, Items and Bosses w/ Locations",
-          "flags": [ "chathud" ]
+          "flags": [ "chathud", "map" ]
+        },
+        {
+          "standart_map": {
+          "display_name": "Chars, Items, Bosses and Map Tracker"
+          "flags": [ "chathud", "map", "pins" ]
         }
       ]
     },
