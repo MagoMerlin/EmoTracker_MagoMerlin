@@ -8,9 +8,9 @@
       "version": "1.1.3.2",
       "flags": [ "chathud", "map", "pins" ],
       "required_app_version": "2.3.0.0",
-      "documentation_url": "https://github.com/MagoMerlin/MagoMerlin.github.io/blob/master/README.md",
+      "documentation_url": "https://raw.githubusercontent.com/MagoMerlin/MagoMerlin.github.io/master/FF4FE/README.txt",
       "uid": "ffiv_fe_complete_magomerlin",
-      "link": "https://github.com/MagoMerlin/MagoMerlin.github.io/raw/master/ffiv_fe_complete_magomerlin.zip",
+      "link": "https://github.com/MagoMerlin/MagoMerlin.github.io/raw/master/FF4FE/ffiv_fe_complete_magomerlin.zip",
       "variants": [
         {
           "name": "Chars, Items and Bosses",
@@ -32,9 +32,9 @@
       "game_name": "The Legend of Zelda Randomizer",
       "version": "1.0.0.0",
       "required_app_version": "2.3.0.0",
-      "documentation_url": "https://github.com/MagoMerlin/MagoMerlin.github.io/blob/master/README.md",
+      "documentation_url": "https://raw.githubusercontent.com/MagoMerlin/MagoMerlin.github.io/master/TLOZR/README.txt",
       "uid": "tlozr_emotracker_magomerlin",
-      "link": "https://github.com/MagoMerlin/MagoMerlin.github.io/raw/master/tlozr_emotracker_magomerlin.zip",
+      "link": "https://github.com/MagoMerlin/MagoMerlin.github.io/raw/master/TLOZR/tlozr_emotracker_magomerlin.zip",
     }
   ]
 }
