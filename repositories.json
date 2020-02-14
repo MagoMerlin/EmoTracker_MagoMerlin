@@ -5,7 +5,7 @@
       "name": "FFIV FE Randomizer - Complete",
       "author": "MagoMerlin",
       "game_name": "FFIV Free Enterprise Randomizer",
-      "version": "1.1.3.1",
+      "version": "1.1.3.2",
       "flags": [ "chathud", "map", "pins" ],
       "required_app_version": "2.3.0.0",
       "documentation_url": "https://github.com/MagoMerlin/MagoMerlin.github.io/blob/master/README.md",
