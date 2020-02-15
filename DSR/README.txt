@@ -1,6 +1,6 @@
 Dark Souls Randomizer tracker:
 
--This package is designed to be a item tracker, maybe a map tracker in the future.
+-This package is designed to be a item tracker, maybe a bosses, covenant and map tracker in the future.
 
 -It's based off of some existing tracker made by Eagle: (http://dsrt.orzeu.net/).
 
