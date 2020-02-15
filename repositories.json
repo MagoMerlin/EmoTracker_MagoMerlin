@@ -44,7 +44,7 @@
       "version": "1.0.0.0",
       "flags": [ "chathud" ],
       "required_app_version": "2.3.0.0",
-      "documentation_url": "https://magomerlin.github.io/DSR/README.htmll",
+      "documentation_url": "https://magomerlin.github.io/DSR/README.html",
       "uid": "dark_souls_randomizer_magomerlin",
       "link": "https://github.com/MagoMerlin/MagoMerlin.github.io/raw/master/DSR/dark_souls_randomizer_magomerlin.zip",
     }
