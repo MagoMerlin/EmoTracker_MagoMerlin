@@ -35,6 +35,16 @@
       "documentation_url": "https://raw.githubusercontent.com/MagoMerlin/MagoMerlin.github.io/master/TLOZR/README.txt",
       "uid": "tlozr_emotracker_magomerlin",
       "link": "https://github.com/MagoMerlin/MagoMerlin.github.io/raw/master/TLOZR/tlozr_emotracker_magomerlin.zip",
+    },
+    {
+      "name": "Dark Souls Randomizer Tracker",
+      "author": "MagoMerlin",
+      "game_name": "Dark Souls Randomizer",
+      "version": "1.0.0.0",
+      "required_app_version": "2.3.0.0",
+      "documentation_url": "https://raw.githubusercontent.com/MagoMerlin/MagoMerlin.github.io/master/DSR/README.txt",
+      "uid": "tlozr_emotracker_magomerlin",
+      "link": "https://github.com/MagoMerlin/MagoMerlin.github.io/raw/master/DSR/dark_souls_randomizer_magomerlin.zip",
     }
   ]
 }
