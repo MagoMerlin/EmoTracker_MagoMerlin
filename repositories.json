@@ -41,7 +41,7 @@
       "name": "Dark Souls Randomizer Tracker",
       "author": "MagoMerlin",
       "game_name": "Dark Souls Randomizer",
-      "version": "1.0.0.0",
+      "version": "1.0.0.1",
       "flags": [ "chathud" ],
       "required_app_version": "2.3.0.0",
       "documentation_url": "https://magomerlin.github.io/DSR/README.html",
